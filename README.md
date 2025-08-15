@@ -1,7 +1,7 @@
 # PRODIGY_WD_01
 
 # 🎯 Task Completed: Clothing Brand Landing Page
-### I’m excited to share that I’ve successfully completed another project — this time, a fully responsive landing page for a clothing brand, built using HTML & CSS!
+### I’m excited to share that I’ve successfully completed my project — this time, a fully responsive landing page for a clothing brand, built using HTML & CSS!
 
 ## 👕 Project Highlights:
 
