@@ -17,6 +17,6 @@
 
 ### 💡 Through this project, I enhanced my skills in UI/UX design, layout structuring, and responsive design principles — all essential for creating visually appealing web interfaces.
 
-🔗 Check it out here: [Add GitHub or Live Demo Link]
+🔗 Check it out here: cosmic-naiad-4607f1.netlify.app
 
 #WebDevelopment #FrontendDevelopment #HTML #CSS #UIUX #ResponsiveDesign #LearningByDoing
